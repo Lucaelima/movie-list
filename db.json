@@ -1,0 +1,372 @@
+{
+  "filmes": [
+    {
+      "nome": "Interestelar",
+      "descricao": "Nessa profunda obra espacial de Christopher Nolan, Mathew McConaughey e Anne Hathaway juntam-se a Jessica Chastain, Ellen Burstyn e Michael Caine na renomada tripulação de uma equipe de exploração do espaço que realiza o impossível ao viajar por um buraco de minhoca recém-descoberto, ultrapassando os limites das viagens espaciais humanas e entrando numa dimensão completamente diferente.",
+      "capa": "https://m.media-amazon.com/images/M/MV5BMmUwMmFlMzktYWVlNy00N2I0LWFhMTYtZWI2ZTM4N2I3ZTk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "ano": 2014,
+      "classificacao": "10",
+      "id": "1",
+      "categorias": [
+        {
+          "nome": "Aventura",
+          "id": "4"
+        },
+        {
+          "nome": "Drama",
+          "id": "6"
+        },
+        {
+          "nome": "Ficção Cientifica",
+          "id": "9"
+        },
+        {
+          "nome": "Suspense",
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "id": "c89d811e-ac09-47eb-8db5-ef75c4239b07",
+      "nome": "Clube da Luta",
+      "descricao": "Um explosivo sofredor de insônia (Edward Norton) e um carismático vendedor de sabonete (Brad Pitt) transformam agressão primitiva em uma chocante forma de terapia. Prepare-se para o impacto!",
+      "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/90/95/96/20122166.jpg",
+      "ano": 1999,
+      "classificacao": "18",
+      "categorias": [
+        {
+          "nome": "Ação",
+          "id": "1"
+        },
+        {
+          "nome": "Comédia",
+          "id": "5"
+        },
+        {
+          "nome": "Drama",
+          "id": "6"
+        },
+        {
+          "nome": "Mistério",
+          "id": "10"
+        }
+      ]
+    },
+    {
+      "id": "0597b04b-2196-437a-a476-bf6fca5c5299",
+      "nome": "A Origem",
+      "descricao": "Dom Cobb é um ladrão com a habilidade de roubar segredos do inconsciente, obtidos durante o sono.",
+      "capa": "https://m.media-amazon.com/images/M/MV5BZmIxYzJkYWQtOWQ4ZS00NjhlLTk0OTMtN2I4ZWQxZGEyZDVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "ano": 2010,
+      "classificacao": "14",
+      "categorias": [
+        {
+          "nome": "Ação",
+          "id": "1"
+        },
+        {
+          "nome": "Aventura",
+          "id": "4"
+        },
+        {
+          "nome": "Ficção Cientifica",
+          "id": "9"
+        },
+        {
+          "nome": "Suspense",
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "id": "f36f5444-b32f-40b0-9596-0dd559b7e514",
+      "nome": "Parasita",
+      "descricao": "Ki-Woo e sua família armam um plano para conseguir empregos em uma casa de milionários. O plano parece ir bem, até que uma série de imprevistos se inicia.",
+      "capa": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg",
+      "ano": 2019,
+      "classificacao": "16",
+      "categorias": [
+        {
+          "nome": "Comédia",
+          "id": "5"
+        },
+        {
+          "nome": "Drama",
+          "id": "6"
+        },
+        {
+          "nome": "Suspense",
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "id": "adaaf556-52dd-4c17-a6d4-8017bca540ab",
+      "nome": "Gladiador",
+      "descricao": "Maximus é um respeitado general do Império Romano e próximo do imperador. Após um plano cruel, Maximus é forçado a fugir e acaba se tornando um escravo e gladiador.",
+      "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/87/29/07/19873973.jpg",
+      "ano": 2000,
+      "classificacao": "16",
+      "categorias": [
+        {
+          "nome": "Ação",
+          "id": "1"
+        },
+        {
+          "nome": "Aventura",
+          "id": "4"
+        },
+        {
+          "nome": "Drama",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "id": "188fbb8a-eb1e-4991-b72a-412454effd30",
+      "nome": "Oppenheimer",
+      "descricao": "A história do cientista americano J. Robert Oppenheimer e seu papel no desenvolvimento da bomba atômica.",
+      "capa": "https://br.web.img2.acsta.net/pictures/23/05/08/10/29/0695770.jpg",
+      "ano": 2025,
+      "classificacao": "16",
+      "categorias": [
+        {
+          "nome": "Drama",
+          "id": "6"
+        },
+        {
+          "nome": "Documentário",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "id": "f609844d-f4b2-46be-98c9-9a4e7d8b119c",
+      "nome": "Jurassic Park: O Parque dos Dinossauros",
+      "descricao": "Um milionário traz à vida dinossauros extintos há milhares de anos, criando um imenso parque. Mas os gigantes pré-históricos começam a ameaçar a vida dos visitantes.",
+      "capa": "https://m.media-amazon.com/images/M/MV5BMDVmNDRiYzQtYWYzNy00ZWM5LTg1ZWYtZWYxOTdhNTI1ODc1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "ano": 1993,
+      "classificacao": "12",
+      "categorias": [
+        {
+          "nome": "Ação",
+          "id": "1"
+        },
+        {
+          "nome": "Aventura",
+          "id": "4"
+        },
+        {
+          "nome": "Ficção Cientifica",
+          "id": "9"
+        },
+        {
+          "nome": "Suspense",
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "id": "44f2c988-6420-4781-9e26-32087247c1bb",
+      "nome": "Pulp Fiction: Tempo de Violência",
+      "descricao": "Dois assassinos, um boxeador e a esposa de um mafioso têm pouco ou quase nada em comum. Mas suas histórias se cruzam em uma teia repleta de violência.",
+      "capa": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "ano": 1994,
+      "classificacao": "18",
+      "categorias": [
+        {
+          "nome": "Comédia",
+          "id": "5"
+        },
+        {
+          "nome": "Drama",
+          "id": "6"
+        },
+        {
+          "nome": "Suspense",
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "id": "538eed7d-b91c-4775-bfbe-3fd65a5d680c",
+      "nome": "Matrix",
+      "descricao": "A vida de Neo muda com a revelação de que ele pode ser o salvador da humanidade contra o sistema de inteligência artificial chamado Matrix.",
+      "capa": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "ano": 1999,
+      "classificacao": "14",
+      "categorias": [
+        {
+          "nome": "Ação",
+          "id": "1"
+        },
+        {
+          "nome": "Ficção Cientifica",
+          "id": "9"
+        }
+      ]
+    },
+    {
+      "id": "f9566eb1-6cfe-459d-83c9-657b69a450e3",
+      "nome": "A Viagem de Chihiro",
+      "descricao": "Uma garota é obrigada a mudar de cidade com seus pais contra a sua vontade. Durante a viagem, eles decidem pegar um atalho e se perdem, chegando a um estranho edifício, onde adentrarão um misterioso mundo de monstros e espíritos.",
+      "capa": "https://m.media-amazon.com/images/M/MV5BYmZmMmM4OTYtMDkyNi00ZDI5LThiODItNzhlZGI3ZDJmZDZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "ano": 2001,
+      "classificacao": "L",
+      "categorias": [
+        {
+          "nome": "Animação",
+          "id": "2"
+        },
+        {
+          "nome": "Anime",
+          "id": "3"
+        },
+        {
+          "nome": "Aventura",
+          "id": "4"
+        },
+        {
+          "nome": "Fantasia",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "id": "2ab14f66-b52c-4b48-b06d-62fc5092bd00",
+      "nome": "Túmulo dos Vagalumes",
+      "descricao": "Um menino e sua irmã tentam sobreviver no Japão durante a Segunda Guerra Mundial.",
+      "capa": "https://m.media-amazon.com/images/M/MV5BMzRmNTc4YTktMWQxMy00MjVjLWExNzEtNDU0YjEyMzBlYjEwXkEyXkFqcGc@._V1_.jpg",
+      "ano": 1988,
+      "classificacao": "12",
+      "categorias": [
+        {
+          "nome": "Animação",
+          "id": "2"
+        },
+        {
+          "nome": "Anime",
+          "id": "3"
+        },
+        {
+          "nome": "Drama",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "id": "70d38e6d-85b4-4d8a-b8d0-b9ae77ca7b31",
+      "nome": "Homem-Aranha: No Aranhaverso",
+      "descricao": "O adolescente Miles Morales se torna o Homem-Aranha de seu universo e deve se juntar a cinco indivíduos com poderes de aranha de outras dimensões para impedir uma ameaça para todas as realidades.",
+      "capa": "https://m.media-amazon.com/images/M/MV5BNDM0MjkxODUtNjQwYy00Y2I1LWE0YTQtMzM2ZWQxOTAwNTQ2XkEyXkFqcGc@._V1_.jpg",
+      "ano": 2018,
+      "classificacao": "10",
+      "categorias": [
+        {
+          "nome": "Ação",
+          "id": "1"
+        },
+        {
+          "nome": "Animação",
+          "id": "2"
+        },
+        {
+          "nome": "Aventura",
+          "id": "4"
+        },
+        {
+          "nome": "Comédia",
+          "id": "5"
+        }
+      ]
+    }
+  ],
+  "categorias": [
+    {
+      "nome": "Ação",
+      "id": "1"
+    },
+    {
+      "nome": "Animação",
+      "id": "2"
+    },
+    {
+      "nome": "Anime",
+      "id": "3"
+    },
+    {
+      "nome": "Aventura",
+      "id": "4"
+    },
+    {
+      "nome": "Comédia",
+      "id": "5"
+    },
+    {
+      "nome": "Drama",
+      "id": "6"
+    },
+    {
+      "nome": "Documentário",
+      "id": "7"
+    },
+    {
+      "nome": "Fantasia",
+      "id": "8"
+    },
+    {
+      "nome": "Ficção Cientifica",
+      "id": "9"
+    },
+    {
+      "nome": "Mistério",
+      "id": "10"
+    },
+    {
+      "nome": "Romance",
+      "id": "11"
+    },
+    {
+      "nome": "Terror",
+      "id": "12"
+    },
+    {
+      "nome": "Esporte",
+      "id": "13"
+    },
+    {
+      "nome": "Suspense",
+      "id": "14"
+    }
+  ],
+  "listas": [
+    {
+      "id": "d535a11e-1f7c-4e21-ad4c-8bf753fd4159",
+      "nome": "Favoritos",
+      "filmes": [
+        {
+          "nome": "Interestelar",
+          "descricao": "Nessa profunda obra espacial de Christopher Nolan, Mathew McConaughey e Anne Hathaway juntam-se a Jessica Chastain, Ellen Burstyn e Michael Caine na renomada tripulação de uma equipe de exploração do espaço que realiza o impossível ao viajar por um buraco de minhoca recém-descoberto, ultrapassando os limites das viagens espaciais humanas e entrando numa dimensão completamente diferente.",
+          "capa": "https://m.media-amazon.com/images/M/MV5BMmUwMmFlMzktYWVlNy00N2I0LWFhMTYtZWI2ZTM4N2I3ZTk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "ano": 2014,
+          "classificacao": "10",
+          "id": "1",
+          "categorias": [
+            {
+              "nome": "Aventura",
+              "id": "4"
+            },
+            {
+              "nome": "Drama",
+              "id": "6"
+            },
+            {
+              "nome": "Ficção Cientifica",
+              "id": "9"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
