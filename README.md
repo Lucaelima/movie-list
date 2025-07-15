@@ -3,7 +3,7 @@
 O MovieList é uma plataforma que pode auxiliar a listar filmes e catalogá-los. Com funcionalidades que permitem criar suas próprias listas e com atalhos para ajudar na busca dos seus filmes com filtro de categorias e com barra de pesquisa.
 
 <p align="center">
-  <img src="tela-inicial.png" alt="Página de Combate" width="50%" style="vertical-align: top; margin-right: 20px;" />
+  <img src="public/tela-inicial.png" alt="Página de início" width="50%" style="vertical-align: top; margin-right: 20px;" />
 </p>
 
 ## 📋 Funcionalidades do projeto
@@ -36,7 +36,7 @@ E outras dependências e ferramentas auxiliares.
 
 ## 📁 Acesso ao Projeto
 
-Você pode [acessar o código-fonte do projeto inicial](https://github.com/Lucaelima/movie-list) ou [baixá-lo](https://github.com/Lucaelima/movie-list/archive/refs/heads/projeto-base.zip).
+Você pode [acessar o código-fonte do projeto inicial](https://github.com/Lucaelima/movie-list) ou [baixá-lo](https://github.com/Lucaelima/movie-list/archive/refs/heads/main.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 
